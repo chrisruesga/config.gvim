@@ -1,0 +1,2 @@
+# config.gvim
+GVIM configuration
