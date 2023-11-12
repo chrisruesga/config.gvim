@@ -1,0 +1,1 @@
+vis.vba: call delete('/nfs/fm/disks/fm_home_a1fs/cjruesga/.vim/plugin/visPlugin.vim')|call delete('/nfs/fm/disks/fm_home_a1fs/cjruesga/.vim/autoload/vis.vim')|call delete('/nfs/fm/disks/fm_home_a1fs/cjruesga/.vim/plugin/cecutil.vim')|call delete('/nfs/fm/disks/fm_home_a1fs/cjruesga/.vim/doc/vis.txt')

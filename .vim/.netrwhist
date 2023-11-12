@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/tmp/cjruesga/check_make'
+let g:netrw_dirhist_2='/tmp/cjruesga/ip-pmc.nebulon_update/cust_build/LKFB1/target/pmc/LKFB1/aceroot/results/tests/cosim_fast/pmc_svcov/cfg1/REGRESS_OUTPUT/pmc_rand_cosim__S0ix__VnnRemoval__basic'
+let g:netrw_dirhist_3='/tmp/cjruesga/ip-pmc2.rdl_updates/cust_build/MCC/verif/tb/coverage/pmc'
+let g:netrw_dirhist_4='/tmp/cjruesga/work/ip-pmc2.ipidx_portid/src/fw/src/engines'
+let g:netrw_dirhist_5='/tmp/cjruesga/work/ip-pmc2.ipidx_portid/src/fw/src'
+let g:netrw_dirhist_6='/tmp/cjruesga/work/ip-pmc2.ipidx_portid/src/fw/src/pmc'
+let g:netrw_dirhist_7='/tmp/cjruesga/work/ip-pmc2.ipidx_portid/src/fw/src'
+let g:netrw_dirhist_8='/tmp/cjruesga/work/ip-pmc2.ipidx_portid/src/fw/src/pmc'
